@@ -262,9 +262,9 @@ unsigned int GetNextWorkRequired(const CBlockIndex* pindexLast, const CBlockHead
 {
  int DiffMode = 1; 
  if (pindexLast->nHeight+1 < 3340)    { DiffMode = 1; }
- if (pindexLast->nHeight+1 >= 3340)   { DiffMode = 2; }
- if (pindexLast->nHeight+1 >= 68002)   { DiffMode = 3; }
- if (pindexLast->nHeight+1 >= 95531)   { DiffMode = 4; }
+ if (pindexLast->nHeight+1 >= 3340 && pindexLast->nHeight+1 < 68002)   { DiffMode = 2; }
+ if (pindexLast->nHeight+1 >= 68002 && pindexLast->nHeight+1 < 95531)   { DiffMode = 3; }
+ if (pindexLast->nHeight+1 >= 95531 && pindexLast->nHeight+1 < 95532)   { DiffMode = 4; }
  if (pindexLast->nHeight+1 >= 95532)   { DiffMode = 5; }
  if (DiffMode == 1) { return GetNextWorkRequired_V1(pindexLast, pblock, params); }
  if (DiffMode == 2) { return DarkGravityWave(pindexLast, pblock, params); }
