@@ -8,7 +8,7 @@ latest block scrypt what can be mined is 68000 block , first neoscrypt block is 
 
 Please report bugs using the issue tracker at GitHub:
 
-  <https://github.com/litebitcoins/litebitcoin/issues>
+  <https://github.com/mraksoll4/litebitcoin/issues>
 
 How to Upgrade
 ==============

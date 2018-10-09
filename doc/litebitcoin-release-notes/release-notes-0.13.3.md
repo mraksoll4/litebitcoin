@@ -7,7 +7,7 @@ It is recommended to upgrade to this version.
 
 Please report bugs using the issue tracker at github:
 
-  <https://github.com/litebitcoins/litebitcoin/issues>
+  <https://github.com/mraksoll4/litebitcoin/issues>
 
 Compatibility
 ==============
@@ -64,7 +64,7 @@ Testnet faucets can be located at:
 - http://testnet.litebitcointools.com
 - http://testnet.thrasher.io
 
-Developers who require the new testnet blockchain paramaters can find them [here](https://github.com/litebitcoins/litebitcoin/blob/0.13/src/chainparams.cpp#L214).
+Developers who require the new testnet blockchain paramaters can find them [here](https://github.com/mraksoll4/litebitcoin/blob/0.13/src/chainparams.cpp#L214).
 
 Credits
 =======

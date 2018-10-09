@@ -1,7 +1,7 @@
 Litebitcoin Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/litebitcoins/litebitcoin.svg?branch=master)](https://travis-ci.org/litebitcoins/litebitcoin)
+[![Build Status](https://travis-ci.org/mraksoll4/litebitcoin.svg?branch=master)](https://travis-ci.org/mraksoll4/litebitcoin)
 
 https://lbtc.info
 
@@ -27,7 +27,7 @@ Development Process
 -------------------
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/litebitcoins/litebitcoin/tags) are created
+completely stable. [Tags](https://github.com/mraksoll4/litebitcoin/tags) are created
 regularly to indicate new official, stable release versions of Litebitcoin Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).

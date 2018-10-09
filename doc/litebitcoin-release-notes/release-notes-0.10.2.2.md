@@ -7,7 +7,7 @@ updates. It is recommended to upgrade to this version.
 
 Please report bugs using the issue tracker at github:
 
-  <https://github.com/litebitcoins/litebitcoin/issues>
+  <https://github.com/mraksoll4/litebitcoin/issues>
 
 Upgrading and downgrading
 =========================

@@ -33,7 +33,7 @@ Build Litebitcoin Core
 
 1. Clone the litebitcoin source code and cd into `litebitcoin`
 
-        git clone https://github.com/litebitcoins/litebitcoin
+        git clone https://github.com/mraksoll4/litebitcoin
         cd litebitcoin
 
 2.  Build litebitcoin-core:

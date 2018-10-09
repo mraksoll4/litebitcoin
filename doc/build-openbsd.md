@@ -18,7 +18,7 @@ pkg_add automake # (select highest version, e.g. 1.15)
 pkg_add python # (select highest version, e.g. 3.6)
 pkg_add boost
 
-git clone https://github.com/litebitcoins/litebitcoin.git
+git clone https://github.com/mraksoll4/litebitcoin.git
 ```
 
 See [dependencies.md](dependencies.md) for a complete overview.
